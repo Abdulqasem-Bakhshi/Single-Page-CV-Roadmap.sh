@@ -10,4 +10,4 @@ I did this to see how one can implement it. **See folder @ Vanilla.js**
 
 # Single-Page-CV-Roadmap.sh | ReactJS @ React.js
 
-I did this to see how one can implement it. **See folder @ Vanilla.js**
+I did this to see how one can implement it. **See folder @ React.js**
