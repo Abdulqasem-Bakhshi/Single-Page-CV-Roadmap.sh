@@ -1,3 +1,8 @@
+const CV = document.getElementById("about");
+
+const Container = `
+
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -5,69 +10,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Singe-Page CV</title>
     <link rel="icon" type="image/x-icon" href="favicon.svg" />
+    <link rel="stylesheet" href="index.css" />
 
-
-
-      <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
-    body {
-      padding: 10px;
-    }
-
-    #body {
-      border: 5px solid rgb(30, 30, 30);
-      border-radius: 3px;
-      display: flex;
-    }
-
-    main {
-      margin: auto;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      font-family: Arial, Helvetica, sans-serif;
-      padding-left: 30px;
-    }
-
-    h3 {
-      color: blue;
-      margin-top: 5px;
-      margin-bottom: 5px;
-    }
-    h4 {
-      color: green;
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
-
-    section {
-      margin-bottom: 25px;
-    }
-
-    p {
-      margin-bottom: 2px;
-    }
-
-    ul {
-      margin-top: 8px;
-      margin-bottom: 8px;
-      margin-left: 20px;
-    }
-
-    #line {
-      width: 90%;
-      border-top: 3px solid rgb(30, 30, 30);
-      border-radius: 5px;
-      margin-top: 60px;
-      margin-bottom: 25px;
-    }
-  </style>
-  </head>
+    </head>
 
   <body>
     <div id="body">
@@ -131,3 +76,8 @@
     </div>
   </body>
 </html>
+
+
+`;
+
+CV.innerHTML = Container;

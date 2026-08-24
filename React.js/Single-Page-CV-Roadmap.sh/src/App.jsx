@@ -1,0 +1,67 @@
+function App() {
+  return (
+    <>
+      <div id="body">
+        <main>
+          <section>
+            <p id="line"></p>
+            <h1>Your Name</h1>
+            <h4>Junior Frontend Developer</h4>
+          </section>
+
+          <section>
+            <p>123 Street Name</p>
+            <p>Your, City, ST 12345</p>
+            <p>(123) 456-7890</p>
+            <p>no_reply@example.com</p>
+          </section>
+
+          <section>
+            <h4>Skills</h4>
+            <p>
+              HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive
+              Web Design, Technical Writing, Presentation
+            </p>
+          </section>
+
+          <section>
+            <h4>Education</h4>
+            <h3>School Name, Location - Degree</h3>
+            <p>Month 20xx to Month 20xx</p>
+            <p>List of exciting things you did at university</p>
+          </section>
+
+          <section>
+            <h4>Experience</h4>
+            <h3>School Name, Location - Degree</h3>
+            <p>Month 20xx to Month 20xx</p>
+            <ul>
+              <li>List of achievements</li>
+              <li>List of achievements</li>
+              <li>List of achievements</li>
+            </ul>
+            <p>Skills: List of skills used or gained at this company</p>
+          </section>
+
+          <section>
+            <h3>School Name, Location - Degree</h3>
+            <p>Month 20xx to Month 20xx</p>
+            <ul>
+              <li>List of achievements</li>
+              <li>List of achievements</li>
+              <li>List of achievements</li>
+            </ul>
+            <p>Skills: List of skills used or gained at this company</p>
+          </section>
+
+          <section>
+            <h4>Across the Internet</h4>
+            <p>Add your LinkedIn, GitHub profile links</p>
+          </section>
+        </main>
+      </div>
+    </>
+  );
+}
+
+export default App;
