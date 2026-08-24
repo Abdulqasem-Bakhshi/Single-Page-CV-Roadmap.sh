@@ -6,8 +6,8 @@ A Roadmap.sh Project: https://roadmap.sh/projects/single-page-cv
 
 # Single-Page-CV-Roadmap.sh | Vanilla JS @ Vanilla.js
 
-I did this to see how one can implement it.
+I did this to see how one can implement it. **See folder @ Vanilla.js**
 
 # Single-Page-CV-Roadmap.sh | ReactJS @ React.js
 
-I did this to see how one can implement it.
+I did this to see how one can implement it. **See folder @ Vanilla.js**
